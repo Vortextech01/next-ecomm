@@ -26,7 +26,7 @@ const Header = () => {
               href='/'
               className='text-2xl font-bold uppercase tracking-widest'
             >
-              CAFE
+              SAPIENS IA
             </Link>
           </div>
 
